@@ -1,3 +1,4 @@
 Master Branch
 Additional Line
 Third line
+Merge : Master -> Stage
